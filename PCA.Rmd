@@ -1,13 +1,7 @@
 ---
 title: "Principal Component Analysis (PCA)"
-author: "Conrado"
+author: "Conrado Eiroa-Solans"
 output: pdf_document
----
----
-title: "ProblemSet11"
-author: "Conrado"
-date: "2/2/2021"
-output: html_document
 ---
 
 ```{r}
