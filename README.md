@@ -1,1 +1,3 @@
-# Simple code for a principal component analysis (PCA)
+# PCA
+
+Simple code for a Principal Component Analysis (PCA). 
