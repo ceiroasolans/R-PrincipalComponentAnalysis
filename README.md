@@ -1,1 +1,1 @@
-# R_Principal.Component.Analysis
+# Simple code for a principal component analysis (PCA)
